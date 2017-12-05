@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import axios from 'axios';
 import ConfirmModal from './subcomponents/ConfirmModal';
 
 // import axios
@@ -19,7 +20,7 @@ class Edit extends Component {
     }
 
     // insert componentWillMount
-
+    
     
     // insert updatePost 
     
